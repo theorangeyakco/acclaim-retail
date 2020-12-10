@@ -1155,9 +1155,10 @@ section {
 
 .doctors .member .pic {
   overflow: hidden;
-  width: 180px;
+  width: 300px;
   border-radius: 50%;
 }
+
 
 .doctors .member .pic img {
   transition: ease-in-out 0.3s;
@@ -1168,7 +1169,7 @@ section {
 }
 
 .doctors .member .member-info {
-  padding-left: 30px;
+  padding-left: 25px;
 }
 
 .doctors .member h4 {
@@ -1198,7 +1199,7 @@ section {
 }
 
 .doctors .member p {
-  margin: 10px 0 0 0;
+  margin: 8px 0 0 0;
   font-size: 14px;
 }
 
