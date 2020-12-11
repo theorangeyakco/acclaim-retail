@@ -182,6 +182,31 @@ h1, h2, h3, h4, h5, h6 {
   max-height: 40px;
 }
 
+.height-clamp {
+  height: 320px;
+  margin-bottom: 1rem;
+}
+
+.h {
+  height: 300px;
+  width: auto;
+}
+
+.c {
+  height: 250px;
+  width: auto;
+}
+
+.row {
+  margin-right: none !important;
+  margin-left: none !important;
+  
+}
+
+.doctors .member span::after {
+  background: none !important;
+}
+
 @media (max-width: 992px) {
   #header {
     top: 0;
