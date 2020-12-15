@@ -532,6 +532,8 @@ h6 {
 	#hero {
 		margin-bottom: 0;
 		height: 100vh;
+		padding-top: 250px;
+
 	}
 	#hero .container {
 		padding-bottom: 63px;
