@@ -1780,12 +1780,16 @@ section {
 	text-decoration: none;
 }
 
+.hero {
+	margin-top: 6rem;
+}
+
 .margin-top {
 	margin-bottom: 0 !important;
 }
 
 .mobile-nav-toggle {
-  height: 2.5rem !important;
+	height: 2.5rem !important;
 }
 
 @media screen and (max-width: 600px) {
